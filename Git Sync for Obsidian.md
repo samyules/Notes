@@ -1,0 +1,3 @@
+So, apparently obsidian uses some json files to keep track of *not only* settings, but also **links and backlinks**. Unfortunately, this means that it might be a little bit harder to use in a command line environement. I might just need do some hacking to figure out how it works. Maybe someone already has a command line tool built? We'll see.
+
+There are some drawbacks to this method. Mostly I will need to manually push changes from my iPad or my iPhone to the remote repo. I'll need to figure these things out.

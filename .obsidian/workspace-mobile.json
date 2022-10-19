@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30c6684660796eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Sync for Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "A Collection of my Personal Notes.md",
+            "file": "Git Sync for Obsidian.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "A Collection of my Personal Notes.md",
+            "file": "Git Sync for Obsidian.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "A Collection of my Personal Notes.md"
+            "file": "Git Sync for Obsidian.md"
           }
         }
       }
@@ -124,6 +137,8 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "961db07d633e5e0f",
-  "lastOpenFiles": []
+  "active": "30c6684660796eb0",
+  "lastOpenFiles": [
+    "A Collection of my Personal Notes.md"
+  ]
 }
