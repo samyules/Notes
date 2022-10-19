@@ -1,3 +1,5 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Obsidian gruvbox",
+  "monospaceFontFamily": "SauceCodePro Nerd Font Mono"
 }
