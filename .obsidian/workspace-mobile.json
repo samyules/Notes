@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "79765f6152135d84",
+    "type": "split",
+    "children": [
+      {
+        "id": "545aa09977b32f45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e2e5af1dd8dd3ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Collection of my Personal Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8ca488028b43035",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "961db07d633e5e0f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d9bae4ce843df78e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e01668572e113266",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "83d33c923c6aa61c",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4e27e8316877a461",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aa64b82b2aa18a3f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "A Collection of my Personal Notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4dd48f668e353fdd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "A Collection of my Personal Notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cc4aa5c660aed6cb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "A Collection of my Personal Notes.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "961db07d633e5e0f",
+  "lastOpenFiles": []
+}
