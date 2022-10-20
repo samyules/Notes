@@ -1,5 +1,7 @@
 {
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "showFrontmatter": true,
+  "defaultViewMode": "preview"
 }
