@@ -1,1 +1,11 @@
-{}
+{
+  "media-extended:get-timestamp": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
+}

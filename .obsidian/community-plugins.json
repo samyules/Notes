@@ -1,5 +1,7 @@
 [
   "calendar",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "media-extended",
+  "obsidian-minimal-settings"
 ]

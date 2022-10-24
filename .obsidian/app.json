@@ -29,5 +29,6 @@
     "editor:configure-toolbar",
     "templater-obsidian:replace-in-file-templater",
     "zk-prefixer"
-  ]
+  ],
+  "useTab": true
 }
