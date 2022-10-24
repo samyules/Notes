@@ -1,0 +1,3 @@
+[submodule "Scripts/obsidian-scrapers"]
+	path = Scripts/obsidian-scrapers
+	url = https://github.com/basilioss/obsidian-scrapers.git
