@@ -2,7 +2,7 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "defaultViewMode": "preview",
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
