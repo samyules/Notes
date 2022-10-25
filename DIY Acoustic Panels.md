@@ -14,11 +14,11 @@ DIY Acoustic Panels to reduce echo in my woodworking workshop and film recording
 
 ![](https://www.youtube.com/watch?v=XDlF14_Jtbc)
 
-# [00:40](https://www.youtube.com/watch?v=XDlF14_Jtbc#t=40.452481) Materials to build
+## [00:40](https://www.youtube.com/watch?v=XDlF14_Jtbc#t=40.452481) Materials to build
 
-# [01:09](https://www.youtube.com/watch?v=XDlF14_Jtbc#t=69.52200313923645)Start of builds 
+## [01:09](https://www.youtube.com/watch?v=XDlF14_Jtbc#t=69.52200313923645)Start of builds 
 
-# [02:02](https://www.youtube.com/watch?v=XDlF14_Jtbc#t=122.03572709727479)Description of Insulation Bats 
+## [02:02](https://www.youtube.com/watch?v=XDlF14_Jtbc#t=122.03572709727479)Description of Insulation Bats 
 
 
 
