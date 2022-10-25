@@ -2,8 +2,7 @@
 Link: https://www.youtube.com/watch?v=OP3dA2GcAh8
 Tags: [ fleeting, notprocessed ]
 ---
-
-
+![](https://www.youtube.com/watch?v=OP3dA2GcAh8)
 ## [01:19](https://www.youtube.com/watch?v=OP3dA2GcAh8#t=79.44325411634827)Borrowed Creativity
 Creativity is all about re-using ideas. If you have all of the little bits in one place, it's much easier to put things together in new ways.
 
