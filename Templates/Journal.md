@@ -9,3 +9,15 @@ Tags: [ daily ]
 ## Journal
 
 <% tp.file.cursor() %>
+
+## Tasks
+
+- [ ] First Task
+- [!] Important Task
+
+## How did the day go?
+
+
+
+## What can you do better?
+

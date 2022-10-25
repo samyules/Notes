@@ -1,3 +1,6 @@
+Currently playing with some dataview:
+
+This shows the prior day only:
 ```dataview
 LIST file.day
 FROM "Journal"
@@ -6,5 +9,3 @@ SORT file.day DESC
 LIMIT 1
 ```
 
-
-`=LIST file.day FROM "Journal"`
