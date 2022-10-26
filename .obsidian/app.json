@@ -1,5 +1,5 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
   "showFrontmatter": false,
@@ -30,5 +30,6 @@
     "templater-obsidian:replace-in-file-templater",
     "zk-prefixer"
   ],
-  "useTab": true
+  "useTab": false,
+  "tabSize": 4
 }
