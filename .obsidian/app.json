@@ -31,5 +31,6 @@
     "zk-prefixer"
   ],
   "useTab": false,
-  "tabSize": 4
+  "tabSize": 4,
+  "readableLineLength": false
 }
