@@ -9,3 +9,5 @@ SORT file.day DESC
 LIMIT 1
 ```
 
+Here is a link with a preview. ![[]]
+![[2022-10-25]]
