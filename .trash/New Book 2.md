@@ -1,11 +1,5 @@
-<%*
-let titleName = await tp.system.prompt("What is the name of the book?")
-await tp.file.rename(titleName)
-await tp.file.move("/Read/" + titleName)
--%>
 ---
-title: <% titleName %>
-alias: <% titleName %>
+alias: "{{title}}"
 author: Somebody Good
 published: 2022-10-22
 coverArt: "![CoverArt|100](https://url/or/path/to/find/image.jpg)"
