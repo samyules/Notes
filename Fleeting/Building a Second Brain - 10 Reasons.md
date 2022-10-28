@@ -29,7 +29,7 @@ Focus on small pieces, spread over time.
 
 ## [06:48](https://www.youtube.com/watch?v=OP3dA2GcAh8#t=408.84379877874755)Start with **Abundance**
 - Don't start with a blank page.
-- If you start building the little building blocks in your notes, you can start with an abundance of ideas in front of you.
+- If you start building the little building blocks in your notes, you can start with an abundance of ideas in front of you. ^50f40f
 
 
 ## [10:58](https://www.youtube.com/watch?v=OP3dA2GcAh8#t=658.5315598016357)"Biggest regret is that I didn't start taking notes ate the age of 15"
