@@ -33,4 +33,7 @@
   "useTab": false,
   "tabSize": 4,
   "readableLineLength": false
+  "readableLineLength": true,
+  "attachmentFolderPath": "Media",
+  "strictLineBreaks": true
 }
