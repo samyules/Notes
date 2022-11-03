@@ -5,17 +5,14 @@ Up:: [[Philosophy#Philosophers]]
 flexGrow=1
 ===
 # Friedrich Wilhelm Nietzsche
-<<<<<<< HEAD
-![Nietzche in Basel Switzerland 1875|100](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/220px-Nietzsche187a.jpg)
-=======
 !["Nietzche in Basel Switzerland 1875"|120](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/220px-Nietzsche187a.jpg)
 
 **Born**
-15 October 1844  
+15 October 1844
 [Röcken](https://en.wikipedia.org/wiki/R%C3%B6cken "Röcken"), [Saxony](https://en.wikipedia.org/wiki/Province_of_Saxony "Province of Saxony"), [Prussia](https://en.wikipedia.org/wiki/Kingdom_of_Prussia "Kingdom of Prussia"), [German Confederation](https://en.wikipedia.org/wiki/German_Confederation "German Confederation")
 
 **Died**
-25 August 1900 (aged 55)  
+25 August 1900 (aged 55)
 [Weimar](https://en.wikipedia.org/wiki/Weimar "Weimar"), [Saxe-Weimar-Eisenach](https://en.wikipedia.org/wiki/Grand_Duchy_of_Saxe-Weimar-Eisenach "Grand Duchy of Saxe-Weimar-Eisenach"), [German Empire](https://en.wikipedia.org/wiki/German_Empire "German Empire")
 
 **Alma mater**

@@ -130,6 +130,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Journal/2022-11-02.md",
+>>>>>>> d4b9ebd (using --separate-git-dir on mac-mini)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +150,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Journal/2022-11-02.md",
+>>>>>>> d4b9ebd (using --separate-git-dir on mac-mini)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,15 +169,39 @@
                 "useHierarchy": true
               }
             }
+<<<<<<< HEAD
           },
+=======
+          }
+        ]
+      },
+      {
+        "id": "c9b85097d1824f5f",
+        "type": "tabs",
+        "children": [
+>>>>>>> d4b9ebd (using --separate-git-dir on mac-mini)
           {
             "id": "acf929d4e346a039",
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {}
             }
           },
+=======
+              "state": {
+                "file": "Journal/2022-11-02.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5b73c225e9ba9e7c",
+        "type": "tabs",
+        "children": [
+>>>>>>> d4b9ebd (using --separate-git-dir on mac-mini)
           {
             "id": "f8afe271f7a4a7e6",
             "type": "leaf",
@@ -182,21 +214,38 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300,
     "collapsed": true
+=======
+    "width": 300
+>>>>>>> d4b9ebd (using --separate-git-dir on mac-mini)
   },
   "ribbon": {
     "mostRecentAction": ""
   },
+<<<<<<< HEAD
   "active": "a8107dc09dc87a22",
   "lastOpenFiles": [
+=======
+  "active": "9da010d1402e7b30",
+  "lastOpenFiles": [
+    "Journal/2022-10-30.md",
+    "note-taking.md",
+    "Fleeting/Zettelkasten Smart Notes.md",
+    "Friedrich Wilhelm Nietzsche.md",
+>>>>>>> d4b9ebd (using --separate-git-dir on mac-mini)
     "DIY Acoustic Panels.md",
     "Git Sync for Obsidian.md",
     "Templates/Untitled.md",
     "Templates/YouTube Note.md",
     "TedX.md",
+<<<<<<< HEAD
     "Fleeting/Untitled.md",
     "Fleeting/Building a Second Brain - 10 Reasons.md",
     "Journal/2022-10-20.md"
+=======
+    "Fleeting/Untitled.md"
+>>>>>>> d4b9ebd (using --separate-git-dir on mac-mini)
   ]
 }
